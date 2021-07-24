@@ -1,4 +1,3 @@
-# Emotion- Recognition 
 # Face-Emotion-Recognition
 ### Live Class Monitoring System(Face Emotion Recognition)
 ## Introduction
