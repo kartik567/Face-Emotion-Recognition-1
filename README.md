@@ -70,7 +70,7 @@ I created one patterns for detecting and predicting single faces and as well as 
 For Webapp , OpenCV can’t be used. Thus, using Streamlit-Webrtc for front-end application.
 
 ## Deployment of Streamlit WebApp in Heroku and Streamlit
-We deploy the app in streamlit but it invite the new user and it take time so after taht we use heroku and then we start deploy the app if you see the in the starting section you see the app name emotion45 but it not deploy we try as much as possible and then we put the link of app. But in local system it ran properly and app also fine
+We deploy the app in streamlit but it invite the new user and it take time so after that we use heroku and then we start deploy the app if you see the in the starting section you see the app name emotion45 but it not deploy we try as much as possible and then we put the link of app. But in local system it ran properly and app also fine
 
 ## Conclusion
 Finally we build the webapp and deployed which has training accuracy of 72.15% and test accuracy of 66.64% .
