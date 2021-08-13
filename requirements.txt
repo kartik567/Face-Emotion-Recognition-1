@@ -1,5 +1,5 @@
 opencv_python==4.5.2.54
-~eras_nightly==2.5.0.dev2021032900
+keras_nightly==2.5.0
 streamlit==0.81.0
 typing_extensions==3.7.4.3
 numpy==1.19.5
